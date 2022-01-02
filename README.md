@@ -7,7 +7,6 @@
   </td>
   <td width="50%">
 
-&nbsp;<p align="center">This repository is [unlicense](https://choosealicense.com/licenses/unlicense/)[d], feel free to fork!<br><br>
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/selami)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mail.selami.dev/)
 [![Visits](https://komarev.com/ghpvc/?username=selamikarabacak&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/selamikarabacak)
