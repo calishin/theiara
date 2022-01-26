@@ -1,6 +1,6 @@
 <h4 align="left">for contact</h4>
 
- - Discord: iara#1000](https://discord.com/users/919623283069046845)
+ - Discord: [iara#1000](https://discord.com/users/919623283069046845)
 
 
 <table width="100%"> 
